@@ -2,23 +2,13 @@
 
 This is a simple and interactive Stopwatch Web Application created using HTML, CSS, and JavaScript. It allows users to measure time intervals with precision and ease.
 
-Link to the Website: Stopwatch Web App
+Link to the Website: 
 
 ## Features
 - **Start/Stop Timer:** Begin or pause the stopwatch with a single click.
 - **Reset Timer:** Reset the stopwatch back to zero to start afresh.
 - **Lap Time Tracking**: Record and display multiple lap times for detailed tracking.
 - **Responsive Design:** The app is designed to work seamlessly on desktops, tablets, and mobile devices.
-
-## Getting Started
-To get started with the Stopwatch App, follow these steps:
-
-- Clone the repository:
-bash
-- Copy code 
-- git clone: https://github.com/ishitha21/Prodigy_WD_02.git
-- Open the project directory.
-- Launch the app by opening the index.html file in a web browser.
 
 ## Usage
 - Click the Start button to begin timing.
