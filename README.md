@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/168069b4-30e9-4ec0-8eb1-a9a338843328)# Stopwatch Web App
+# Stopwatch Web App
 
 This is a simple and interactive Stopwatch Web Application created using HTML, CSS, and JavaScript. It allows users to measure time intervals with precision and ease.
 
