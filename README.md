@@ -2,7 +2,7 @@
 
 This is a simple and interactive Stopwatch Web Application created using HTML, CSS, and JavaScript. It allows users to measure time intervals with precision and ease.
 
-Link to the Website: [StopWatch](https://ishitha21.github.io/Prodigy_WD_02/)
+Link to the Website: [StopWatch](https://ishitha21.github.io/Prodigy_WD_02/Index.html)
 
 ## Features
 - **Start/Stop Timer:** Begin or pause the stopwatch with a single click.
