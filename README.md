@@ -1,4 +1,4 @@
-**Stopwatch Web App**
+# Stopwatch Web App
 
 This is a simple and interactive Stopwatch Web Application created using HTML, CSS, and JavaScript. It allows users to measure time intervals with precision and ease.
 
