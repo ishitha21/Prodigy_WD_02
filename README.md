@@ -16,7 +16,7 @@ To get started with the Stopwatch App, follow these steps:
 - Clone the repository:
 bash
 - Copy code 
-- git clone 
+- git clone: https://github.com/ishitha21/Prodigy_WD_02.git
 - Open the project directory.
 - Launch the app by opening the index.html file in a web browser.
 
