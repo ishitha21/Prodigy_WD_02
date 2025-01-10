@@ -16,7 +16,7 @@ To get started with the Stopwatch App, follow these steps:
 - Clone the repository:
 bash
 - Copy code 
-- git clone https://github.com/your-username/stopwatch-web-app.git  
+- git clone 
 - Open the project directory.
 - Launch the app by opening the index.html file in a web browser.
 
